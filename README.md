@@ -7,4 +7,6 @@ INSTRUCTION: Ball Jump by using 'W' button and ball move Right side by using 'D'
 
 Game's file is more than 25MB, so it is unable to upload on Gibhub, so I uploaded this file to MediaFire
 
-link of Pink Ball Game: https://www.mediafire.com/folder/nyr64qhsc0t8k/PINK+BALL+GAME
+link of Pink Ball Game: https://www.mediafire.com/file/a7p9zr1ar25gsx9/PINK_BALL_GAME.zip/file
+
+PASSWORD OF ZIP: SARTHAK27112004
